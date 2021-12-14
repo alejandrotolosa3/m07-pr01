@@ -1,4 +1,7 @@
 {
+    "name": "atolosa/practica1",
+    "description": "Atolosa Practica1",
+    "type": "package",
     "require": {
         "fakerphp/faker": "^1.17",
         "nesbot/carbon": "^2.55"
